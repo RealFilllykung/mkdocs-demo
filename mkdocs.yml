@@ -1,4 +1,3 @@
 site_name: MkDocs Demo
-site_url: https://realfilllykung.github.io/mkdocs-demo
 theme:
   name: material
